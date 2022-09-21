@@ -1,0 +1,24 @@
+node_modules/
+.stencil
+# config.stencil.json - config section
+# secrets.stencil.json - init secret
+.DS_Store
+assets/css-artifacts
+assets/js/bundle.js
+assets/dist
+vendor/bundle
+.bundle
+*.js.map
+*.zip
+package-lock.json
+*.log
+.sass-cache
+build
+lib-cov
+test/html-report
+test/lcov-report
+test/lcov.info
+test/fixtures/watching-css-out-01
+test/fixtures/watching-css-out-02
+coverage
+.nyc_output
